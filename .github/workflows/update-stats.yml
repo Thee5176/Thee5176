@@ -1,0 +1,27 @@
+name: Update GitHub Stats Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          # Add cache-busting parameter to force image refresh
+          DATE=$(date +%s)
+          sed -i "s/\?username=/\?cache_bust=$DATE\&username=/g" README.md
+          
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Daily stats refresh"
+          git push
