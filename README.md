@@ -10,7 +10,6 @@
 
 ### Frontend
 - CSS Frameworks: [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://github.com/topics/bootstrap)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://github.com/topics/javascript)
 - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/topics/typescript) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://github.com/topics/react) [![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)](https://github.com/topics/material-ui)
 
 ### Others
@@ -22,8 +21,8 @@
 ## 🌟 Featured Projects
 [![Project 1](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Django_FastReckon&theme=vue)](https://github.com/Thee5176/Django_FastReckon)
 [![Project 2](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
-[![Project 3](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
-[![Project 4](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
+[![Project 3](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=SpringBoot_WebArchive&theme=vue)](https://github.com/Thee5176/SpringBoot_WebArchive)
+[![Project 4](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=React_WebArchive&theme=vue)](https://github.com/Thee5176/React_WebArchive)
 
 ## 🎯 Job Seeking
 - **Roles**: Backend Engineer / Full-Stack Developer (新卒)
