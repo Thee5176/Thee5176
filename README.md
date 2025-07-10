@@ -1,11 +1,33 @@
-<h1 align="center">Hi 👋, I'm Thee</h1>
-<h3 align="center">A passionate fullstack developer from Thailand</h3>
+# Hi there, I'm Thee 👋
 
-- 🌱 I’m currently learning **Springboot and React.ts**
+[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Tech Stack
+### Backend
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python) [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://github.com/topics/django)
+- [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://github.com/topics/java) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://github.com/topics/spring-boot)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/topics/typescript)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://github.com/topics/react)
+### Others
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://github.com/topics/bash)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://github.com/topics/mysql)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://github.com/topics/postgresql)
+
+## 🌟 Featured Projects
+[![Project 1](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Django_FastReckon&theme=vue)](https://github.com/Thee5176/Django_FastReckon)
+[![Project 2](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
+[![Project 3](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
+[![Project 4](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
+
+## 🎯 Job Seeking
+- **Roles**: Backend Engineer / Full-Stack Developer (新卒)
+- **Industry**: Enterprise Software, E-commerce Platform
+- **Location**: Tokyo, Fukuoka, Sapporo
+- **Status**: Actively applying
+
+## 🌐 Connect With Me
+[![Wantedly](https://img.shields.io/badge/Wantedly-00B4FF?logo=wantedly&logoColor=white)](https://www.wantedly.com/id/Thee5176)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail)](mailto:dev.thee5176@gmail.com)
