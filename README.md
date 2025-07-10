@@ -1,9 +1,11 @@
 # Hi there, I'm Thee 👋
 
 [![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack[
+    
+![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Backend
 - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python) [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://github.com/topics/django)
 - [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://github.com/topics/java) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://github.com/topics/spring-boot)
@@ -27,6 +29,7 @@
 - **Industry**: Enterprise Software, E-commerce Platform
 - **Location**: Tokyo, Fukuoka, Sapporo
 - **Status**: Actively applying
+- **JLPT Certificates**: ![JLPT N2](https://img.shields.io/badge/JLPT-N2-green)
 
 ## 🌐 Connect With Me
 [![Wantedly](https://img.shields.io/badge/Wantedly-00B4FF?logo=wantedly&logoColor=white)](https://www.wantedly.com/id/Thee5176)
