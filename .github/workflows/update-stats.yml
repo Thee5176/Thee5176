@@ -25,7 +25,7 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Thee5176/Thee5176.git
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DAILY_UPDATE_TOKEN }}
           
       - name: Commit changes
         run: |
