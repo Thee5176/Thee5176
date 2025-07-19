@@ -1,5 +1,8 @@
 name: Update GitHub Stats Daily
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
@@ -17,6 +20,12 @@ jobs:
           # Add cache-busting parameter to force image refresh
           DATE=$(date +%s)
           sed -i "s/\?username=/\?cache_bust=$DATE\&username=/g" README.md
+
+      - name: Set up push authentication
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit changes
         run: |
