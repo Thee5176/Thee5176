@@ -23,7 +23,7 @@ jobs:
 
       - name: Set up push authentication
         run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Thee5176/Thee5176.git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
