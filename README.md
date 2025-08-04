@@ -1,7 +1,7 @@
 # Hi there, I'm Thee 👋
 
-[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?cache_bust=1752908975&username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?cache_bust=1752908975&username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech Stack
 ### Backend
@@ -21,8 +21,7 @@
 ## 🌟 Featured Projects
 [![Django Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1752908975&username=Thee5176&repo=Django_FastReckon&theme=vue)](https://github.com/Thee5176/Django_FastReckon)
 [![Python Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1752908975&username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
-[![SpringBoot Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1752908975&username=Thee5176&repo=SpringBoot_CQRS&theme=vue)](https://github.com/Thee5176/SpringBoot_CQRS)
-[![React Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1752908975&username=Thee5176&repo=React_WebArchive&theme=vue)](https://github.com/Thee5176/React_WebArchive)
+[![SpringBoot/React Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1752908975&username=Thee5176&repo=Accounting_CQRS_Project&theme=vue)](https://github.com/Thee5176/Accounting_CQRS_Project)
 
 ## 🎯 Job Seeking
 - **Roles**: Backend Engineer / Full-Stack Developer (新卒)
