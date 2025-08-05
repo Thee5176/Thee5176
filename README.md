@@ -1,7 +1,7 @@
 # Hi there, I'm Thee 👋
 
-[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?cache_bust=1754359434&username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?cache_bust=1754359434&username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech Stack
 ### Backend
