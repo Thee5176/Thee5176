@@ -19,7 +19,7 @@ jobs:
         run: |
           # Add cache-busting parameter to force image refresh
           DATE=$(date +%s)
-          sed -i "s/\?cache_bust=$DATE\&username=/g" README.md
+          sed -i -E "s/([?&]cache_bust=)[0-9]+/\1${DATE}/g" README.md
 
       - name: Set up push authentication
         run: |
