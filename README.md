@@ -1,7 +1,7 @@
 # Hi there, I'm Thee 👋
 
-[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?cache_bust=1775616165&username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?cache_bust=1775616165&username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-rho-three-33.vercel.app/api?cache_bust=1775702238&username=Thee5176&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-rho-three-33.vercel.app/api/top-langs/?cache_bust=1775702238&username=Thee5176&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Tech Stack
 ### Backend
@@ -19,9 +19,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://github.com/topics/postgresql)
 
 ## 🌟 Featured Projects
-[![Django Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1775616165&username=Thee5176&repo=Django_FastReckon&theme=vue)](https://github.com/Thee5176/Django_FastReckon)
-[![Python Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1775616165&username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
-[![SpringBoot/React Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1775616165&username=Thee5176&repo=Accounting_CQRS_Project&theme=vue)](https://github.com/Thee5176/Accounting_CQRS_Project)
+[![Django Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1775702238&username=Thee5176&repo=Django_FastReckon&theme=vue)](https://github.com/Thee5176/Django_FastReckon)
+[![Python Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1775702238&username=Thee5176&repo=Clipboard_To_Anki&theme=vue)](https://github.com/Thee5176/Clipboard_To_Anki)
+[![SpringBoot/React Project](https://github-readme-stats-rho-three-33.vercel.app/api/pin/?cache_bust=1775702238&username=Thee5176&repo=Accounting_CQRS_Project&theme=vue)](https://github.com/Thee5176/Accounting_CQRS_Project)
 
 ## 🎯 Job Seeking
 - **Roles**: Backend Engineer / Full-Stack Developer (新卒)
